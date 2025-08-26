@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed nousad</h1>
 <h4 align="center">Passionate Full-Stack Developer with over 2 years of experience, specializing in the MERN stack to build secure, responsive, and scalable web applications. Currently interning as a Full-Stack Developer and leading the development of a District Transfer Management System for the Ampara District Secretariat, a government-backed project. Skilled in crafting modern user interfaces with React, Tailwind CSS, and Bootstrap, and building robust back-end solutions using Node.js and PHP. Experienced with Firebase, AWS, and implementing authentication and security best practices.</h4>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamednousad" alt="mohamednousad" /></a> </p>
-
 - 🔭 I’m currently working on [dtms](https://dtms.vercel.app)
 
 - 🌱 I’m currently learning **DSA,DevOps,Linux**
