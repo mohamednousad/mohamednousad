@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Ghost-Link](https://ghost-link-delta.vercel.app)
 
-- 🤝 I’m looking for help with [Blink-AI](https://blink-ai.vercel.app)
+- 🤝 I’m looking for help with [Blink-AI](https://blink-ai-app.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://nousad.lovestoblog.com](https://nousad.lovestoblog.com)
 
